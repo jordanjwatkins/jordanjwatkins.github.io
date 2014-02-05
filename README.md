@@ -22,5 +22,5 @@ Jordan is proficient with Photoshop and has designed full sites, but spends more
 *     GIT
 *     LAMP Stack
 *     Team Management & Training
-*     SASS
+*     Sass
 *     Grunt
