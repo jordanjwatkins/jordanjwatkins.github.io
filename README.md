@@ -13,10 +13,12 @@ Jordan is proficient with Photoshop and has designed full sites, but spends more
 *     PHP
 *     MySQL
 *     JavaScript (jQuery)
-*     Wordpress
+*     WordPress
 *     CodeIgniter
 *     Joomla
 *     Drupal
+*     MVC
+*     OOP
 *     GIT
 *     LAMP Stack
 *     Team Management & Training
