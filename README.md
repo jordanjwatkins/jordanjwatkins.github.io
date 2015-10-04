@@ -8,6 +8,8 @@ More recently, at Amazon in Seattle, I've primarily been applying my experience 
 
 Outside work, I mostly spend time with my family, read and code small projects for fun and education, and do some web development mentoring.
 
+My favorite thing that I've built recently is a [synth loop](https://github.com/jordanjwatkins/synth-loop) made with Vanilla JS and the Web Audio API.
+
 [LinkedIn](https://www.linkedin.com/in/jordanwatkins)  
 [Resume](https://docs.google.com/document/d/1PDNOL_buvgCI6DsNKetG8-aW4Y8Jgs-67SUAjUn6fPU)  
 [GitHub](https://github.com/jordanjwatkins)  
@@ -16,11 +18,11 @@ Outside work, I mostly spend time with my family, read and code small projects f
 *     JavaScript
 *     HTML5
 *     CSS3
+*     Sass / PostCSS
 *     Ruby on Rails
 *     GIT
-*     Training / Mentoring
-*     Sass / PostCSS
 *     Front-end Tooling (NPM, Grunt, etc.)
+*     Training / Mentoring
 *     PHP
 *     MySQL
 *     WordPress
