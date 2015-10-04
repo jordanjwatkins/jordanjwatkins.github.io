@@ -4,7 +4,7 @@
 
 Working freelance at my standing desk in Portland, OR, I built, enhanced and maintained (and sometimes designed) numerous sites and applications (with focus on the LAMP stack and WordPress) some of which can be viewed via the [sites page](http://jordanjwatkins.github.io/portfolio-sites/).
 
-More recently, at Amazon in Seattle, I've primarily been applying his experience to growing and refining the [Amazon Payments](https://payments.amazon.com/home) websites (now in 9 countries and 6 languages), along with other related front-end projects.
+More recently, at Amazon in Seattle, I've primarily been applying my experience to growing and refining the [Amazon Payments](https://payments.amazon.com/home) websites (now in 9 countries and 6 languages), along with other related front-end projects.
 
 Outside work, I mostly spend time with my family, read and code small projects for fun and education, and do some web development mentoring.
 
